@@ -1,8 +1,3 @@
-// const products = [
-//   { id: 1, name: "P1", price: 34 },
-//   { id: 2, name: "P2", price: 50 },
-//   { id: 3, name: "P3", price: 40 },
-// ];
 let products = []
 
 fetch("products.json")

@@ -8,7 +8,12 @@
     justify-content: center;
     flex-wrap: wrap;
 }
-
+.menu{
+    display: flex;
+}
+.menu div{
+    padding: 10px;
+}
 .box{
     width: 300px;
     border: 1px solid gray;
